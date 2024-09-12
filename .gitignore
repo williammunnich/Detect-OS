@@ -1,0 +1,7 @@
+
+.vscode/c_cpp_properties.json
+.vscode/launch.json
+.vscode/settings.json
+output/os_detect
+output/os_detect.dSYM/Contents/Info.plist
+output/os_detect.dSYM/Contents/Resources/Relocations/aarch64/os_detect.yml
